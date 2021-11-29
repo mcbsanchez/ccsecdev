@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Threat Modeling QUIZ 2",
+    "owner": "Martin Sanchez"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat Modeling QUIZ 2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Ms. Kaye Solomon"
+  }
+}
